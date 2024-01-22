@@ -102,7 +102,7 @@ The web application fetches real-time stock information by querying an external 
 **Index**
 ![Index](screenshots/index.png)
 
-**Buy*
+**Buy**
 ![Buy](screenshots/buy.png)
 
 **Sell**
