@@ -91,3 +91,22 @@ The web application fetches real-time stock information by querying an external 
 * Checks if the user has enough shares of the specified stock to sell.
 * Records the stock sale transaction in the database with negative shares to represent the sale.
 * Calculates the amount gained from the sale and updates the user's cash balance in the database.
+
+---
+
+## Screenshots
+
+**Register/Login**
+![Register/Login](screenshots/login:register.png)
+
+**Index**
+![Index](screenshots/index.png)
+
+**Buy*
+![Buy](screenshots/buy.png)
+
+**Sell**
+![Sell](screenshots/sell.png)
+
+**History**
+![History](screenshots/history.png)
